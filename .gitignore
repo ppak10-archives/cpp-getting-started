@@ -31,5 +31,9 @@
 *.out
 *.app
 
+# VSCode
+*.ilk
+*.pdb
+
 # Outputs
 myfirstprogram
